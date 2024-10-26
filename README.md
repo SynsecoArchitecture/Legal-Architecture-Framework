@@ -66,6 +66,6 @@ License
 
 This project is licensed under the MIT License. See LICENSE for details.
 
-For more details on our services, visit Synseco’s official website or contact us at info@synseco.com.
+For more details on our services, visit Synseco’s official website or contact us at info@synseco.io.
 
 This README.md serves as a professional introduction and resource guide for Synseco’s legal security architecture solutions. Let me know if there’s anything you’d like to adjust!
