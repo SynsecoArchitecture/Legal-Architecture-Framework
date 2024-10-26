@@ -1,4 +1,4 @@
-Legal Security Architecture Framework
+![EA5EAEAD-62E7-495A-9B82-7A7631A6B382](https://github.com/user-attachments/assets/e53df8f3-5751-4be2-9381-ee3914759e3f)Legal Security Architecture Framework
 
 Comprehensive Security and Compliance Solutions for Law Firms: Synseco’s Expertise in Legal Sector Architecture and Data Protection
 
